@@ -14,7 +14,7 @@ function embed_tinychat(params, options)
   	var frame = document.createElement("iframe");
   	frame.src = "http://tinychat.com/embed/chat.html?" + data;
   	frame.style.width="75%";
-  	frame.style.height="80%";
+  	frame.style.height="90%";
   	frame.style.border = "0";
   	frame.frameBorder = "0";
   	
